@@ -10,7 +10,6 @@ This project aims to predict employee burnout using Linear Regression. Employee 
 4. Project Customization
 5. Modelling
 6. Results
-7. Links
 
 ## Who are the End Users of This Project?
 The end users of this project are primarily HR professionals, managers, and organizational leaders who are responsible for employee well-being and productivity. Additionally, data analysts and researchers who focus on workplace health and productivity can utilize the model's insights. The predictions and insights provided by the model can help these users identify high-risk employees, implement targeted interventions, and develop policies to mitigate burnout and improve overall workplace satisfaction.
